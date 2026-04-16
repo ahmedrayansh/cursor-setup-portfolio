@@ -177,4 +177,4 @@ After installing Git:
 
 This task helped me understand how to approach a new setup step by step, especially when things don’t work immediately.
 
-Instead of getting stuck, I focused on identifying the issue, finding reliable solutions, and continuing the process. It also gave me a clearer idea of how development tools, version control, and AI integrations work together in practice.
+Instead of getting stuck, I focused on identifying the issue, finding reliable solutions, and continuing the process.
