@@ -18,3 +18,16 @@ Dave's broader strategy is to stop waiting for media coverage and become the sou
 
 ### Attribution and Conviction
 The episode notes that attribution can begin with a gut feeling. Organic LinkedIn often influences buyers before they fill out a form, so the strategy should be measured with a mix of direct feedback, self-reported attribution, inbound quality, and sales conversations.
+
+## Original Transcript Source
+Source checked: https://creators.spotify.com/pod/profile/b2brevenuevitals/episodes/104---Life-Is-Too-Short-to-Work-For-a-CEO-Who-Doesnt-Get-Marketing--Dave-Gerhardt-eqan7j
+
+Full transcript availability: A full public transcript was not available from the source page I found. The source provides the episode audio, title, duration, and show description.
+
+Short source excerpt: "B2B influencer marketing, content marketing trends, modern PR, attribution"
+
+### Condensed Transcript Flow
+- Chris Walker and Dave Gerhardt discuss how B2B marketing is changing as buyers gain more control.
+- The conversation connects modern PR with audience building, content, social distribution, and being known before buyers enter an active sales process.
+- They discuss why marketers should think beyond trackable clicks and form fills, especially when channels like LinkedIn, podcasts, and communities create influence before attribution software can see it.
+- The practical takeaway for B2B SaaS teams is to build repeatable public-facing content from strong opinions, customer knowledge, and executive voice.
