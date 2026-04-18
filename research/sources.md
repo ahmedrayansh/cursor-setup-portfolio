@@ -1,7 +1,7 @@
 # LinkedIn Organic Content Strategy for B2B SaaS
 
 Collected: 2026-04-18  
-Scope: Dave Gerhardt, Chris Walker, Justin Welsh, Amanda Natividad, Ross Simmonds  
+Scope: Dave Gerhardt, Chris Walker, Justin Welsh, Amanda Natividad, Ross Simmonds, Devin Reed, Anthony Pierri, Guillaume Moubeche, Gaetano DiNardi, Lara Acosta  
 Research use: Extract repeatable ideas for LinkedIn-led B2B SaaS organic content.
 
 ## Source Notes
@@ -89,3 +89,84 @@ Recent / relevant sources:
 - YouTube - "B2B Content Distribution Masterclass: Live with Ross Simmonds": https://www.youtube.com/watch?v=GiI2UaY6HTI
 - Recap - Dreamdata masterclass article: https://dreamdata.io/blog/a-b2b-content-distribution-masterclass-with-ross-simmonds
 - Tool / framework - B2B SaaS Content Distribution Audit: https://rosssimmonds.com/resources/distribution-audit/
+
+### Devin Reed
+
+Profile: https://www.linkedin.com/in/devinreed  
+Primary owned source: https://www.thereeder.co/  
+Research file: `research/linkedin-posts/devin-reed.md`  
+Transcript / video notes: `research/youtube-transcripts/devin-reed-reed-between-the-lines-trailer-notes.md`
+
+Why chosen: B2B SaaS content strategist and former Gong / Clari content leader; useful for executive LinkedIn, trust-building before demand capture, and content systems.
+
+Recent / relevant sources:
+- 2025-12-19 - LinkedIn post on launching a YouTube strategy by repurposing existing videos and growing Shorts from ~1,000 to 37,800 views: https://www.linkedin.com/posts/devinreed_i-finally-made-the-leap-and-launched-my-youtube-activity-7407858714407448578-8nUs
+- 2025-12-17 - LinkedIn post arguing that the marketing funnel does not describe how buyers actually discover and trust brands: https://www.linkedin.com/posts/devinreed_i-once-presented-a-content-plan-to-the-c-suite-activity-7407108176371916800-oFZ4
+- 2025-10-15 - LinkedIn post with a five-step playbook for helping a CEO client get 8.9M LinkedIn views in 12 months: https://www.linkedin.com/posts/devinreed_one-of-my-ceo-clients-started-posting-on-activity-7384276841542500352-x4uT
+- The Reeder content strategy consultancy page: https://www.thereeder.co/
+- Podcast / video show source - Reed Between The Lines: https://convert.thereeder.co/pod
+
+### Anthony Pierri
+
+Profile: https://www.linkedin.com/in/anthonypierri  
+Primary owned source: https://www.fletchpmm.com/  
+Research file: `research/linkedin-posts/anthony-pierri.md`  
+Transcript / video notes: `research/youtube-transcripts/anthony-pierri-b2b-homepage-positioning-notes.md`
+
+Why chosen: B2B SaaS homepage positioning specialist; useful for product positioning, market segmentation, competitive/contextual positioning, and homepage messaging.
+
+Recent / relevant sources:
+- 2026-02-23 - LinkedIn post on why firmographic ICPs are not marketable segments and why teams should segment around mature categories or jobs-to-be-done: https://www.linkedin.com/posts/anthonypierri_weve-worked-on-500-positioning-projects-activity-7431832819489955840-Nr4H
+- 2025-12-19 - LinkedIn post on choosing between existing-category positioning and creating new mental space around a task or workflow: https://www.linkedin.com/posts/anthonypierri_the-two-most-important-positioning-strategies-activity-7407779981520564224-E0xl
+- 2025-01-31 - LinkedIn post on product marketing / positioning in B2B SaaS: https://www.linkedin.com/posts/anthonypierri_productmarketing-positioning-b2b-activity-7291107979091660800-kviS
+- YouTube - "How to Perfectly Position Your B2B Brand in 34 Minutes": https://www.youtube.com/watch?v=ivZ4HRKEc20
+- Podcast mirror - MicroConf On Air episode: https://microconfpodcast.com/episodes/microconf-tactics-how-to-perfectly-position-your-b2b-brand-in-34-minutes
+- Podcast transcript source - Lenny's Podcast / Anthony Pierri transcript: https://www.buzzsprout.com/272333/14904729/transcript
+
+### Guillaume Moubeche
+
+Profile: https://www.linkedin.com/in/guillaume-moubeche-a026541b2  
+Primary owned source: https://www.guillaumemoubeche.com/  
+Research file: `research/linkedin-posts/guillaume-moubeche.md`  
+Transcript / video notes: `research/youtube-transcripts/guillaume-moubeche-why-no-longer-ceo-notes.md`
+
+Why chosen: Founder of lemlist / lempire; useful for bootstrapped SaaS growth, founder-led content, audience trust, sales-led content, and profitable growth.
+
+Recent / relevant sources:
+- 2025-12-05 - LinkedIn post contrasting high-maintenance low-value customers with high-value ideal customers: https://www.linkedin.com/posts/guillaume-moubeche-a026541b2_in-the-early-days-of-lemlist-our-biggest-activity-7402640575256006656-jqz5
+- 2025-10-22 - LinkedIn post announcing lemlist's acquisition of Claap and the thesis around AI-powered sales using customer conversations: https://www.linkedin.com/posts/guillaume-moubeche-a026541b2_big-news-we-just-acquired-claap-in-an-activity-7386666321624743936-lw5N
+- 2025-09-12 - LinkedIn post on what scaled lemlist and what almost killed it, including focus, using the product to grow, and profitability: https://www.linkedin.com/posts/guillaume-moubeche-a026541b2_3-things-that-scaled-us-3-things-that-almost-activity-7372165833143242754-gZJc
+- YouTube - "Why I'm no longer CEO of lemlist (and what I'm doing now...)": https://www.youtube.com/watch?v=VEUxgjUUBBU
+- Interview - Product Hunt: https://www.producthunt.com/stories/an-interview-with-lempire-founder
+
+### Gaetano DiNardi
+
+Profile: https://www.linkedin.com/in/officialg  
+Primary owned source: https://marketingadvice.io/  
+Research file: `research/linkedin-posts/gaetano-dinardi.md`  
+Other material: `research/other/gaetano-dinardi-ai-search-webinar-notes.md`
+
+Why chosen: B2B SaaS SEO and growth advisor; useful for AI search, "dark SEO," demand capture, brand search, and revenue-focused organic strategy.
+
+Recent / relevant sources:
+- 2026-03-03 - LinkedIn post introducing the "Dark SEO" funnel and the measurement problem created when LLMs recommend brands but Google gets the attribution: https://www.linkedin.com/posts/officialg_the-dark-seo-funnel-why-traffic-no-longer-activity-7434594691267940354-DeGu
+- 2026-02-11 - LinkedIn article on explaining a 25% traffic decline to a CEO using ranking, intent, pipeline, and context: https://www.linkedin.com/pulse/9-things-i-just-explained-ceo-after-our-traffic-tanked-dinardi-79bme
+- 2025-12-09 - LinkedIn post arguing SEO is now a brand-dependent performance channel, not a traffic channel: https://www.linkedin.com/posts/officialg_is-seo-a-brand-channel-or-a-performance-channel-activity-7404201012426752000-NeSr
+- 2025-11-09 - LinkedIn post on "Dark SEO" measurement and moving away from CTR / click traffic as primary metrics: https://www.linkedin.com/posts/officialg_sorry-but-ai-platforms-are-not-going-to-activity-7393339318498512896-iqNt
+- Webinar - "The Truth About AI Search with Gaetano DiNardi": https://www.clearscope.io/webinars/truth-about-ai-search
+
+### Lara Acosta
+
+Profile: https://www.linkedin.com/in/laraacostar  
+Primary owned source: https://www.literallyacademy.com/  
+Research file: `research/linkedin-posts/lara-acosta.md`  
+Transcript / video notes: `research/youtube-transcripts/lara-acosta-strategic-storytelling-linkedin-notes.md`
+
+Why chosen: LinkedIn personal branding operator and founder; useful for founder-led LinkedIn, authority at scale, storytelling, content pillars, and creator-led monetization.
+
+Recent / relevant sources:
+- 2026-01-19 - LinkedIn post on what actually works on LinkedIn in 2026, including hyper-specific content and solving one exact problem per post: https://www.linkedin.com/posts/laraacostar_i-spent-the-last-90-days-testing-every-linkedin-activity-7418989480877031425-RtsB
+- 2025-05-09 - LinkedIn post arguing personal branding is "authority at scale," not random viral posts: https://www.linkedin.com/posts/laraacostar_most-creators-have-personal-branding-wrong-activity-7326565780400054272-M6Cj
+- 2025-02-23 - LinkedIn post on broad hook, narrow re-hook, niche body as a viral LinkedIn structure: https://www.linkedin.com/posts/laraacostar_my-personal-brand-strategy-is-making-people-activity-7299398129714409472-t7VC
+- YouTube - "The Power of Strategic Storytelling for Your Personal Brand on LinkedIn | Lara Acosta": https://www.youtube.com/watch?v=dC_CxCi44KE
+- Forbes profile, last updated 2026-04-14: https://www.forbes.com/profile/lara-acosta
