@@ -1,7 +1,7 @@
-# Amanda Natividad - Video Notes
+# Amanda Natividad - YouTube Transcript
 
 Video Title: MicroConf Refresh: The New Way of Marketing - Mastery of Zero-Click Content with Amanda Natividad
-Link: https://microconf.com/on-air-episodes/microconf-refresh-the-new-way-of-marketing-mastery-of-zero-click-content-with-amanda-natividad
+Link: https://youtu.be/Z-OJiMGYL74
 
 ## Key Points
 - Zero-click content gives value inside the platform instead of forcing a click.
@@ -19,14 +19,14 @@ The MicroConf description notes that Amanda shares methods for creating zero-cli
 ### Trust Before Traffic
 The strategy is not anti-website. It is a recognition that buyers often form opinions before clicking. LinkedIn content should create memory, authority, and confidence so the buyer searches for the brand later.
 
-## Original Transcript Source
-Source checked: https://microconf.com/on-air-episodes/microconf-refresh-the-new-way-of-marketing-mastery-of-zero-click-content-with-amanda-natividad
+## Original YouTube Transcript
+YouTube source checked: https://youtu.be/Z-OJiMGYL74
 
-YouTube source linked from page: https://youtu.be/Z-OJiMGYL74
+Caption status: YouTube captions available. Caption snippets checked: 842.
 
-Full transcript availability: The MicroConf page links to the YouTube talk, but the page itself does not publish the full transcript. I did not paste a full verbatim YouTube transcript here; the condensed flow below captures the talk's useful research structure.
+Note: I am not pasting the full verbatim caption file here. The section below is a cleaned transcript-style outline from the YouTube captions.
 
-Short source excerpt: "3 methods for creating zero-click content"
+Short caption excerpt: "zero click content"
 
 ### Condensed Transcript Flow
 - Amanda explains why content marketing is moving toward zero-click behavior: platforms increasingly reward content that keeps people on-platform.

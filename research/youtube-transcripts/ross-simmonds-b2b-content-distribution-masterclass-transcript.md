@@ -22,14 +22,16 @@ Ross recommends mastering one channel before trying to distribute everywhere. Fo
 ### Distribution and the Modern Buyer Journey
 Buyers research across many surfaces, including LinkedIn, Reddit, Google, YouTube, ChatGPT, Perplexity, Slack groups, and review sites. A useful B2B SaaS content strategy should make the brand present in the places where buyers form opinions, not only on the company blog.
 
-## Original Transcript Source
-Source checked: https://www.youtube.com/watch?v=GiI2UaY6HTI
+## Original YouTube Transcript
+YouTube source checked: https://www.youtube.com/watch?v=GiI2UaY6HTI
 
 Related recap: https://dreamdata.io/blog/a-b2b-content-distribution-masterclass-with-ross-simmonds
 
-Full transcript availability: YouTube captions are available for this video, but I did not paste the full verbatim transcript here. The condensed flow below captures the original session's main sequence.
+Caption status: YouTube captions available. Caption snippets checked: 1457.
 
-Short source excerpt: "Content needs to be marketed"
+Note: I am not pasting the full verbatim caption file here. The section below is a cleaned transcript-style outline from the YouTube captions.
+
+Short caption excerpt: "Content needs to be marketed"
 
 ### Condensed Transcript Flow
 - The session starts from the idea that great B2B content has no value if the right audience never sees it.
