@@ -2,6 +2,8 @@
 
 Video Title: MicroConf Refresh: The New Way of Marketing - Mastery of Zero-Click Content with Amanda Natividad
 Link: https://youtu.be/Z-OJiMGYL74
+Collected: 2026-04-18
+Collection method: Public YouTube captions checked via free transcript-fetching workflow.
 
 ## Key Points
 - Zero-click content gives value inside the platform instead of forcing a click.

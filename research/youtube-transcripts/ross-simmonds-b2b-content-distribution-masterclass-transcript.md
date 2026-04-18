@@ -2,6 +2,8 @@
 
 Video Title: B2B Content Distribution Masterclass: Live with Ross Simmonds
 Link: https://www.youtube.com/watch?v=GiI2UaY6HTI
+Collected: 2026-04-18
+Collection method: Public YouTube captions checked via free transcript-fetching workflow.
 
 ## Key Points
 - Great B2B content needs a distribution system or it will disappear.

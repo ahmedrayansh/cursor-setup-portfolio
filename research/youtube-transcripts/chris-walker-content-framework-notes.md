@@ -2,6 +2,8 @@
 
 Video Title: How To Take Your Content Strategy To The Next Level | Chris Walker
 Link: https://www.youtube.com/watch?v=z624BxQVHH4
+Collected: 2026-04-18
+Collection method: Public YouTube captions checked via free transcript-fetching workflow.
 
 ## Key Points
 - Content volume is possible with a small team when there is a repeatable system.

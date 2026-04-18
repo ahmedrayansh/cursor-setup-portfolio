@@ -2,6 +2,8 @@
 
 Video Title: Life Is Too Short to Work For a CEO Who Doesn't Get Marketing
 Link: https://creators.spotify.com/pod/profile/b2brevenuevitals/episodes/104---Life-Is-Too-Short-to-Work-For-a-CEO-Who-Doesnt-Get-Marketing--Dave-Gerhardt-eqan7j
+Collected: 2026-04-18
+Collection method: Public podcast page checked. No free public YouTube caption source was found for Dave Gerhardt in this research pass, so this item is kept under `research/other/`.
 
 ## Key Points
 - B2B SaaS brands should think like media companies, not only campaign teams.

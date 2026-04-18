@@ -2,6 +2,8 @@
 
 Video Title: Interview with Justin Welsh - Increasing productivity by creating systems
 Link: https://www.youtube.com/watch?v=NWNR7BJ1qy8
+Collected: 2026-04-18
+Collection method: Public YouTube captions checked via free transcript-fetching workflow.
 
 ## Key Points
 - Build repeatable systems around the work that matters, especially content creation, audience building, and customer experience.
@@ -59,3 +61,11 @@ Research takeaway:
 - Do something real before over-planning.
 - Build simple systems before complexity piles up.
 - Use systems to protect energy, consistency, and quality.
+
+## Original YouTube Transcript
+
+YouTube source checked: https://www.youtube.com/watch?v=NWNR7BJ1qy8
+
+Caption status: YouTube captions available in prior transcript fetch. Full verbatim caption file is not reproduced here.
+
+Note: This file keeps a cleaned transcript-style research summary rather than a full caption dump, so it can be used safely as research notes in the repo.
