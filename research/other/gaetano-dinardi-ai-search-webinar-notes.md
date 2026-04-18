@@ -4,7 +4,7 @@ Source Title: The Truth About AI Search with Gaetano DiNardi
 Link: https://www.clearscope.io/webinars/truth-about-ai-search  
 Recorded: 2025-11-18  
 Collected: 2026-04-18  
-Collection method: Public Clearscope webinar page checked. A reliable public YouTube transcript source was not found in this pass.
+Collection method: Public Clearscope webinar page checked. A later pass added a separate AirOps YouTube transcript for Gaetano under `research/youtube-transcripts/`.
 
 ## Key Points
 
