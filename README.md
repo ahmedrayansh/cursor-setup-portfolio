@@ -157,3 +157,220 @@ There was no free way to use Claude Code through this method.
 This task helped me understand how to approach a new setup step by step. When something didn’t work, I focused on finding the cause and fixing it instead of getting stuck.
 
 It also helped me become more comfortable working through new tools and completing tasks independently.
+
+# Research Project: LinkedIn Organic Content Strategy for B2B SaaS
+
+## Overview
+
+This project focuses on researching how experienced marketers, founders, and growth operators use LinkedIn organic content to build visibility, trust, audience attention, and business opportunities in the B2B SaaS space.
+
+The goal of this repository is to collect strong public examples, organize them clearly, and build a useful base of material that could later be turned into a practical playbook.
+
+---
+
+## Why I Chose This Topic
+
+I chose LinkedIn organic content strategy for B2B SaaS because LinkedIn is one of the most relevant platforms for reaching founders, decision-makers, and professionals in the B2B market.
+
+Unlike short-term channels that depend fully on paid spend, organic content can create long-term visibility, trust, and consistent attention when executed well. I wanted to study how strong operators approach this in practice.
+
+---
+
+## How I Approached the Research
+
+Instead of collecting random names or gathering large amounts of content immediately, I first focused on creating a clean project structure inside the repository so the research would remain organized from the beginning.
+
+After that, the main challenge was expert selection. Many creators discuss growth, motivation, or personal branding, but not all are directly relevant to LinkedIn organic strategy for B2B SaaS.
+
+Because of that, I focused on selecting people whose content could realistically help build a useful playbook later.
+
+I prioritized people with backgrounds such as:
+
+* SaaS founders
+* B2B marketers
+* Demand generation leaders
+* Content operators
+* People who share practical examples rather than only general advice
+
+Rather than trying to find the perfect list immediately, I started with strong names and refined the list based on relevance to the topic.
+
+---
+
+## Work Completed So Far
+
+* Selected the research topic
+* Created repository folder structure for organized research
+* Built folders for sources, LinkedIn posts, transcripts, and additional materials
+* Identified an initial group of relevant experts
+* Reviewed expert relevance and adjusted the list based on fit
+* Began collecting public content from selected experts
+* Updated documentation progressively instead of waiting until the end
+* Committed changes regularly to track progress
+
+---
+
+## Repository Structure
+
+```text
+research/
+  sources.md
+  linkedin-posts/
+  youtube-transcripts/
+  other/
+```
+
+### Folder Purpose
+
+* `sources.md` → expert list, profile links, notes, selection reasoning
+* `linkedin-posts/` → collected LinkedIn posts organized by expert
+* `youtube-transcripts/` → transcripts and takeaways from relevant videos
+* `other/` → newsletters, articles, podcast notes, extra material
+
+---
+
+## Selected Experts
+
+1. Dave Gerhardt
+2. Chris Walker
+3. Amanda Natividad
+4. Ross Simmonds
+5. Justin Welsh
+6. Devin Reed
+7. Anthony Pierri
+8. Guillaume Moubeche
+9. Gaetano DiNardi
+10. Lara Acosta
+
+---
+
+## Why These Experts Were Chosen
+
+I selected a mix of operators, founders, marketers, and content specialists to cover different parts of the topic.
+
+This includes:
+
+* SaaS growth and demand generation
+* Founder-led audience building
+* LinkedIn organic content systems
+* Distribution and repurposing
+* Positioning and messaging
+* Practical B2B marketing execution
+
+This mix helps create a more complete research base instead of relying on only one style of creator.
+
+---
+
+## Tools & Workflow
+
+I used a combination of manual research, technical tools, and structured documentation.
+
+### Tools Used
+
+* Cursor IDE for repository management and editing
+* Codex for workflow support, formatting, organization, and documentation refinement
+* GitHub for hosting the project
+* Git for commits and progress tracking
+* Public sources such as LinkedIn, YouTube, articles, and newsletters
+
+### How I Used Codex
+
+I used Codex to help with practical parts of the workflow such as:
+
+* Organizing files and folders
+* Improving markdown structure
+* Refining rough notes into clearer summaries
+* Helping with documentation updates
+* Assisting with technical workflow steps where needed
+
+I used it as a support tool rather than for core decisions. Topic relevance, expert selection, filtering useful content, and final judgment were handled manually.
+
+---
+
+## Data Collection Approach
+
+I used a mixed approach depending on the source.
+
+### LinkedIn Content
+
+For LinkedIn, I reviewed public posts and activity feeds from selected experts and manually collected relevant recent content. This helped prioritize quality and relevance rather than bulk copying.
+
+### YouTube Content
+
+For YouTube, I explored transcript tools and API-based methods to collect transcripts more efficiently where available. These transcripts were then reviewed for useful ideas, repeated themes, and practical takeaways.
+
+### Why This Approach
+
+Different platforms are easier to work with in different ways. I used whichever method was more practical and reliable while keeping the project organized.
+
+---
+
+## Key Challenges Faced
+
+### 1. Finding Relevant Experts
+
+Many creators discuss broad topics like motivation or generic growth, but not all were a strong fit for the chosen category.
+
+**How I handled it:**
+I filtered for relevance, credibility, practical experience, and usefulness rather than popularity alone.
+
+---
+
+### 2. Too Much Available Content
+
+Some experts had large amounts of content across multiple platforms.
+
+**How I handled it:**
+I focused on recent material with clear lessons, repeatable strategies, or useful frameworks.
+
+---
+
+### 3. Technical vs Practical Methods
+
+Some sources were easier to collect manually, while others benefited from tools.
+
+**How I handled it:**
+I used a balanced approach based on whichever method produced reliable results efficiently.
+
+---
+
+### 4. Staying Organized While Expanding Research
+
+As the amount of material increased, structure became important.
+
+**How I handled it:**
+I organized everything into folders early and updated documentation progressively.
+
+---
+
+## Key Patterns Observed So Far
+
+Some repeated themes already visible across multiple experts:
+
+* Consistency matters more than occasional viral content
+* Clear messaging performs better than vague branding
+* Useful content builds trust over time
+* Distribution matters as much as creation
+* Personal voices often outperform company pages in engagement
+* Strong positioning improves content effectiveness
+
+---
+
+## What I Learned
+
+* Good research starts with selecting strong sources
+* Relevance matters more than popularity
+* Clear organization saves time later
+* Practical execution is more valuable than unnecessary complexity
+* Consistent progress works better than waiting for perfect conditions
+* Strong public content often comes from people sharing real experience
+
+---
+
+## Current Status
+
+* Research topic selected
+* Structure created
+* Experts selected
+* Initial collection in progress
+* Documentation updated
+* Repository actively maintained
