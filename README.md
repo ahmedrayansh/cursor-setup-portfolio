@@ -379,6 +379,6 @@ Some repeated themes already visible across multiple experts:
 
 ## Final Reflection
 
-Digging into these expert transcripts really changed how I look at my own LinkedIn feed. I used to think it was all about "hacks" or trying to go viral, but the biggest takeaway was that the real winners are just consistently useful and aren't afraid to share real, unpolished experiences.
+Honestly, diving into these expert transcripts really shifted how I scroll through my own feed. I used to think LinkedIn was just about finding the right "hacks" or chasing a viral post, but the real takeaway for me was that the people who actually win are just consistently helpful—and they aren't afraid to show the unpolished, messy reality of their work. 
 
-It’s a lot more work than I expected to do it right, but seeing how people like Ross Simmonds or Gaetano DiNardi build their "moats" through distribution and trust makes the whole strategy finally click for me.
+It's definitely more of a grind than I expected to do this right, but seeing how operators like Ross Simmonds or Gaetano DiNardi build their "moats" through genuine trust and smart distribution made the whole strategy finally click. It feels less like a marketing chore now and more like I'm building a real asset for the long term.
